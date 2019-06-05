@@ -1,0 +1,33 @@
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = https://github.com/wincent/command-t/
+[submodule "bundle/lightline"]
+	path = bundle/lightline
+	url = https://github.com/itchyny/lightline.vim
+[submodule "bundle/pluginname"]
+	path = bundle/pluginname
+	url = https://github.com/ervandew/supertab
+[submodule "bundle/vim-multiple-cursors"]
+	path = bundle/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors/
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/terminus_1"]
+	path = bundle/terminus_1
+	url = https://github.com/wincent/terminus
+[submodule "bundle/fast_unit"]
+	path = bundle/fast_unit
+	url = https://github.com/rstacruz/vim-fastunite
+[submodule "bundle/easygrep"]
+	path = bundle/easygrep
+	url = https://github.com/dkprice/vim-easygrep
+[submodule "bundle/syntactic"]
+	path = bundle/syntactic
+	url = https://github.com/vim-syntastic/syntastic
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "bundle/vim-latex-live-preview"]
+	path = bundle/vim-latex-live-preview
+	url = https://github.com/xuhdev/vim-latex-live-preview.git
