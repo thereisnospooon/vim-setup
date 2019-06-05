@@ -31,3 +31,12 @@
 [submodule "bundle/vim-latex-live-preview"]
 	path = bundle/vim-latex-live-preview
 	url = https://github.com/xuhdev/vim-latex-live-preview.git
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = /home/guy/.vim/bundle/YouCompleteMe/
+[submodule "vim-snippets"]
+	path = vim-snippets
+	url = /home/guy/.vim/bundle/vim-snippets/
+[submodule "vimtex"]
+	path = vimtex
+	url = /home/guy/.vim/bundle/vimtex/
